@@ -1,7 +1,7 @@
 ### HEY !!! 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Komal+Kshirsagar+This+Side+.....;Electrical+Engineering+Graduate;MNIT+Jaipur+EE+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Ritika+Khandelwal+This+Side+.....;Electrical+Engineering+Graduate;MNIT+Jaipur+EE+2024)](https://git.io/typing-svg)
 
 
 
@@ -15,11 +15,9 @@
 Profileme.dev
 --->
 
-* Mail- [2020uee1483@mnit.ac.in](mailto:2020uee1483@mnit.ac.in)
-* Contact Number:- +91-9423029593
-* I am Computer Science Engineer(2024) Graduate from IIIT Kota with a passion for logical and critical thinking. I have a deep love for mathematics and  consider myself a tech enthusiast.
-
-  What sets me apart is my keen interest in finance and trading. I find the world of investments and markets fascinating and continuously strive to expand my   knowledge in this area.
+* Mail- [2020uee1299@mnit.ac.in](mailto:2020uee1299@mnit.ac.in)
+* Contact Number:- +91-9468652258
+* I am Electrical Engineer(2024) Graduate from NIT Jaipur with a passion for logical and critical thinking. I have a deep love for mathematics and consider myself a tech enthusiast.
 
   In addition to my academic achievements, I am a grand master in UCMAS, showcasing my mental arithmetic skills. I have also excelled in competitive exams, with a JEE Main percentile of 98.3% and qualification in JEE Advanced. Furthermore, I have successfully cleared GATE 2023.
 
@@ -34,9 +32,6 @@ Profileme.dev
 
 <br>
 <br>
-
-### ✍️ Quote (Refresh for more)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <h2 align="center">Skills</h2>
